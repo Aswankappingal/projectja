@@ -1,0 +1,61 @@
+.nav-bar-whole{
+    background-color: rgb(160, 160, 160);
+}
+.data-full-includes{
+    background-color: rgba(183, 190, 156, 0.089);
+    height: 900px;
+
+}
+#ash{
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 24px;
+    color:rgb(242, 242, 236);
+}
+.card-full{
+    background-color: #ecede8;
+   
+}
+.card-full h5{
+    font-size: 20px;
+    margin-left: 5%;
+    font-weight: 500;
+
+}
+.card-full p{
+    font-size: 17px;
+    margin-left: 5%;
+    font-weight: 500;
+
+}
+#buy{
+    background-color: rgb(31, 29, 29);
+    padding: 6px 14px;
+    color: #cad78d;
+    border-radius: 5px;
+    margin-left: 5%;
+}
+#buy:hover{
+    background-color: #dadbd4;
+    color: black;
+    border: 1px solid black;
+
+}
+#money{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+
+.full-data{
+    margin-top: 3%;
+}
+#details{
+    display: flex;
+   margin-left: 12%;
+   gap: 70px;
+}
+.IMAGES img{
+    height: 200px;
+}
